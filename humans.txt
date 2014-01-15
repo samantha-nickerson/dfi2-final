@@ -1,0 +1,12 @@
+/*Team*/
+Developer/ Designer: Samantha Nickerson
+Locations Ottawa, Canada
+&nbsp;
+/*Thanks*/
+To all the awesome people who helped me.
+&nbsp;
+/*Site*/
+Last updated: 2013/12/11
+Standards: HTML5, CSS3
+Components: Jquery, Modernizer, etc...
+Software: Adobe, Text2, Livereload
